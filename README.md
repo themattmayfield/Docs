@@ -102,9 +102,9 @@ A quick look at the top-level files and directories.
 
 ## ✉️ Contact
 
-Instagram: @gainthetics
+Instagram: [@gainthetics](https://www.instagram.com/gainthetics/)
 
-LinkedIn:
+LinkedIn: [/in/matthew-mayfield](https://www.linkedin.com/in/matthew-mayfield)
 
 Email: themindev@gmail.com
 
