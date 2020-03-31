@@ -1,0 +1,284 @@
+{
+  "config": {
+    "title": "Matt Mayfield",
+    "description": "Documentation site for all projects",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": "https://github.com/gatsbyjs/gatsby-starter-default",
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/Users/macmini/gatsby-starter-default/README.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/README.md",
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "-goal",
+            "depth": 2,
+            "value": "🚀 Goal"
+          },
+          {
+            "slug": "-about-this-site",
+            "depth": 2,
+            "value": "💫 About this site"
+          },
+          {
+            "slug": "🧐-whats-inside",
+            "depth": 2,
+            "value": "🧐 What's inside?"
+          },
+          {
+            "slug": "️-contact",
+            "depth": 2,
+            "value": "✉️ Contact"
+          }
+        ]
+      }
+    },
+    {
+      "key": "components/Alert.mdx",
+      "value": {
+        "name": "Alert",
+        "menu": "Components",
+        "route": "/docs/alert",
+        "id": "b9efb26563d8a21eccf251b4f26ca50a",
+        "filepath": "components/Alert.mdx",
+        "fullpath": "/Users/macmini/gatsby-starter-default/components/Alert.mdx",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/components/Alert.mdx",
+        "slug": "components-alert",
+        "headings": [
+          {
+            "slug": "alert",
+            "depth": 1,
+            "value": "Alert"
+          },
+          {
+            "slug": "properties",
+            "depth": 2,
+            "value": "Properties"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          },
+          {
+            "slug": "using-different-kinds",
+            "depth": 2,
+            "value": "Using different kinds"
+          }
+        ]
+      }
+    },
+    {
+      "key": "components/Button.mdx",
+      "value": {
+        "name": "Button",
+        "menu": "Components",
+        "route": "/docs/button",
+        "id": "f287cf3b9733fc5567c4e9b701076dd1",
+        "filepath": "components/Button.mdx",
+        "fullpath": "/Users/macmini/gatsby-starter-default/components/Button.mdx",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/components/Button.mdx",
+        "slug": "components-button",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "best-practices",
+            "depth": 3,
+            "value": "Best practices"
+          },
+          {
+            "slug": "with-different-sizes",
+            "depth": 2,
+            "value": "With different sizes"
+          },
+          {
+            "slug": "with-different-colors",
+            "depth": 2,
+            "value": "With different colors"
+          },
+          {
+            "slug": "outlined",
+            "depth": 2,
+            "value": "Outlined"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/index.mdx",
+      "value": {
+        "name": "Getting Started",
+        "route": "/docs/",
+        "menu": "Docs",
+        "id": "73498ad0e1e62a714b08085d318f9de1",
+        "filepath": "docs/index.mdx",
+        "fullpath": "/Users/macmini/gatsby-starter-default/docs/index.mdx",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/docs/index.mdx",
+        "slug": "docs-index",
+        "headings": [
+          {
+            "slug": "getting-started",
+            "depth": 1,
+            "value": "Getting Started"
+          },
+          {
+            "slug": "hello-world",
+            "depth": 2,
+            "value": "Hello world"
+          }
+        ]
+      }
+    },
+    {
+      "key": "blog/hello-world/index.md",
+      "value": {
+        "title": "Hello World",
+        "date": "2015-05-01T22:12:03.284Z",
+        "name": "Hello World",
+        "route": "/blog/helloworld",
+        "menu": "Blog",
+        "id": "3b9289da6496c599034f467991453e48",
+        "filepath": "blog/hello-world/index.md",
+        "fullpath": "/Users/macmini/gatsby-starter-default/blog/hello-world/index.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/blog/hello-world/index.md",
+        "slug": "blog-hello-world-index",
+        "headings": []
+      }
+    },
+    {
+      "key": "blog/hi-folks/index.md",
+      "value": {
+        "title": "New Beginnings",
+        "date": "2015-05-28T22:40:32.169Z",
+        "description": "This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.",
+        "name": "New Beginnings",
+        "route": "/blog/newbegginings",
+        "menu": "Blog",
+        "id": "ef840b5e96c796cc2a9241542a162341",
+        "filepath": "blog/hi-folks/index.md",
+        "fullpath": "/Users/macmini/gatsby-starter-default/blog/hi-folks/index.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/blog/hi-folks/index.md",
+        "slug": "blog-hi-folks-index",
+        "headings": [
+          {
+            "slug": "on-deer-horse-aboard-tritely-yikes-and-much",
+            "depth": 2,
+            "value": "On deer horse aboard tritely yikes and much"
+          },
+          {
+            "slug": "overlaid-the-jeepers-uselessly-much-excluding",
+            "depth": 3,
+            "value": "Overlaid the jeepers uselessly much excluding"
+          },
+          {
+            "slug": "according-a-funnily-until-pre-set-or-arrogant-well-cheerful",
+            "depth": 3,
+            "value": "According a funnily until pre-set or arrogant well cheerful"
+          },
+          {
+            "slug": "silent-delightfully-including-because-before-one-up-barring-chameleon",
+            "depth": 4,
+            "value": "Silent delightfully including because before one up barring chameleon"
+          },
+          {
+            "slug": "wherever-far-wow-thus-a-squirrel-raccoon-jeez-jaguar-this-from-along",
+            "depth": 5,
+            "value": "Wherever far wow thus a squirrel raccoon jeez jaguar this from along"
+          },
+          {
+            "slug": "slapped-cozy-a-that-lightheartedly-and-far",
+            "depth": 6,
+            "value": "Slapped cozy a that lightheartedly and far"
+          }
+        ]
+      }
+    },
+    {
+      "key": "blog/my-second-post/index.md",
+      "value": {
+        "title": "My Second Post!",
+        "date": "2015-05-06T23:46:37.121Z",
+        "name": "My Second Post!",
+        "route": "/blog/secondpost",
+        "menu": "Blog",
+        "id": "3b6c1a6f7bea1aeec5d48ab5c7d84efd",
+        "filepath": "blog/my-second-post/index.md",
+        "fullpath": "/Users/macmini/gatsby-starter-default/blog/my-second-post/index.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/blog/my-second-post/index.md",
+        "slug": "blog-my-second-post-index",
+        "headings": []
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "components/Alert.jsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Alert",
+          "methods": [],
+          "actualName": "Alert",
+          "props": {
+            "kind": {
+              "type": {
+                "name": "enum",
+                "value": [
+                  {
+                    "value": "'info'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'positive'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'negative'",
+                    "computed": false
+                  },
+                  {
+                    "value": "'warning'",
+                    "computed": false
+                  }
+                ]
+              },
+              "required": false,
+              "description": "The kind prop is used to set the alert's background color",
+              "defaultValue": {
+                "value": "'info'",
+                "computed": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "key": "components/Contact.jsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Contact",
+          "methods": [],
+          "actualName": "Contact"
+        }
+      ]
+    }
+  ]
+}
