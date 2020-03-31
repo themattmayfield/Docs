@@ -48,9 +48,12 @@ If you enjoy my content, support me buy fueling my coffee addiction!
 
     Added a dark mode toggle because...dark mode.
 
-5. **Mobile First.**
+5. **Edit a page**
+    If you have a Github page and see a change you want to make to any page on this site, click the pencil in the top left corner and make a pull request!
 
-6. Simple
+6. **Mobile First.**
+
+7. Simple
 
     Simple and elegant are two things that I wanted for this site. Not too many bells and whistles.
 
