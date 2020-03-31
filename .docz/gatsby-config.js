@@ -45,7 +45,7 @@ const config = {
         open: false,
         'open-browser': false,
         root: '/Users/macmini/Tmd/Docs/.docz',
-        base: '/',
+        base: '/Docs',
         source: './',
         src: './',
         files: '**/*.{md,markdown,mdx}',
@@ -59,7 +59,7 @@ const config = {
         title: 'Matt Mayfield',
         description: 'Documentation site for all projects',
         host: 'localhost',
-        port: 3000,
+        port: 3001,
         p: 3000,
         separator: '-',
         paths: {
