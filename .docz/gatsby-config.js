@@ -20,8 +20,7 @@ const config = {
 
   siteMetadata: {
     title: 'Matt Mayfield',
-    description:
-      'A simple starter to get up and developing quickly with Gatsby',
+    description: 'Documentation site for all projects',
   },
   plugins: [
     {
@@ -45,7 +44,7 @@ const config = {
         o: false,
         open: false,
         'open-browser': false,
-        root: '/Users/macmini/gatsby-starter-default/.docz',
+        root: '/Users/macmini/Tmd/Docs/.docz',
         base: '/',
         source: './',
         src: './',
@@ -58,33 +57,28 @@ const config = {
         'edit-branch': 'master',
         config: '',
         title: 'Matt Mayfield',
-        description:
-          'A simple starter to get up and developing quickly with Gatsby',
+        description: 'Documentation site for all projects',
         host: 'localhost',
         port: 3000,
         p: 3000,
         separator: '-',
         paths: {
-          root: '/Users/macmini/gatsby-starter-default',
+          root: '/Users/macmini/Tmd/Docs',
           templates:
-            '/Users/macmini/gatsby-starter-default/node_modules/docz-core/dist/templates',
-          docz: '/Users/macmini/gatsby-starter-default/.docz',
-          cache: '/Users/macmini/gatsby-starter-default/.docz/.cache',
-          app: '/Users/macmini/gatsby-starter-default/.docz/app',
-          appPackageJson: '/Users/macmini/gatsby-starter-default/package.json',
-          gatsbyConfig:
-            '/Users/macmini/gatsby-starter-default/gatsby-config.js',
-          gatsbyBrowser:
-            '/Users/macmini/gatsby-starter-default/gatsby-browser.js',
-          gatsbyNode: '/Users/macmini/gatsby-starter-default/gatsby-node.js',
-          gatsbySSR: '/Users/macmini/gatsby-starter-default/gatsby-ssr.js',
-          importsJs:
-            '/Users/macmini/gatsby-starter-default/.docz/app/imports.js',
-          rootJs: '/Users/macmini/gatsby-starter-default/.docz/app/root.jsx',
-          indexJs: '/Users/macmini/gatsby-starter-default/.docz/app/index.jsx',
-          indexHtml:
-            '/Users/macmini/gatsby-starter-default/.docz/app/index.html',
-          db: '/Users/macmini/gatsby-starter-default/.docz/app/db.json',
+            '/Users/macmini/Tmd/Docs/node_modules/docz-core/dist/templates',
+          docz: '/Users/macmini/Tmd/Docs/.docz',
+          cache: '/Users/macmini/Tmd/Docs/.docz/.cache',
+          app: '/Users/macmini/Tmd/Docs/.docz/app',
+          appPackageJson: '/Users/macmini/Tmd/Docs/package.json',
+          gatsbyConfig: '/Users/macmini/Tmd/Docs/gatsby-config.js',
+          gatsbyBrowser: '/Users/macmini/Tmd/Docs/gatsby-browser.js',
+          gatsbyNode: '/Users/macmini/Tmd/Docs/gatsby-node.js',
+          gatsbySSR: '/Users/macmini/Tmd/Docs/gatsby-ssr.js',
+          importsJs: '/Users/macmini/Tmd/Docs/.docz/app/imports.js',
+          rootJs: '/Users/macmini/Tmd/Docs/.docz/app/root.jsx',
+          indexJs: '/Users/macmini/Tmd/Docs/.docz/app/index.jsx',
+          indexHtml: '/Users/macmini/Tmd/Docs/.docz/app/index.html',
+          db: '/Users/macmini/Tmd/Docs/.docz/app/db.json',
         },
       },
     },

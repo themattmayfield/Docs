@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/Users/macmini/gatsby-starter-default/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
-      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"/Users/macmini/gatsby-starter-default/node_modules/gatsby-theme-docz/src/base/Layout.js"}},
+      plugin: require('/Users/macmini/Tmd/Docs/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"extensions":[".md",".mdx"],"remarkPlugins":[[null,{"type":"yaml","marker":"-"}],null],"rehypePlugins":[null,null],"gatsbyRemarkPlugins":[],"defaultLayouts":{"default":"/Users/macmini/Tmd/Docs/node_modules/gatsby-theme-docz/src/base/Layout.js"}},
     },{
-      plugin: require('/Users/macmini/gatsby-starter-default/node_modules/gatsby-plugin-react-helmet-async/gatsby-ssr'),
+      plugin: require('/Users/macmini/Tmd/Docs/node_modules/gatsby-plugin-react-helmet-async/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/macmini/gatsby-starter-default/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Users/macmini/Tmd/Docs/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/macmini/gatsby-starter-default/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/macmini/Tmd/Docs/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

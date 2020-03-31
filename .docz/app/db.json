@@ -15,8 +15,8 @@
       "value": {
         "id": "04c6e90faac2675aa89e2176d2eec7d8",
         "filepath": "README.md",
-        "fullpath": "/Users/macmini/gatsby-starter-default/README.md",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/README.md",
+        "fullpath": "/Users/macmini/Tmd/Docs/README.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/README.md",
         "slug": "readme",
         "route": "/readme",
         "name": "Readme",
@@ -53,8 +53,8 @@
         "route": "/docs/alert",
         "id": "b9efb26563d8a21eccf251b4f26ca50a",
         "filepath": "components/Alert.mdx",
-        "fullpath": "/Users/macmini/gatsby-starter-default/components/Alert.mdx",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/components/Alert.mdx",
+        "fullpath": "/Users/macmini/Tmd/Docs/components/Alert.mdx",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/components/Alert.mdx",
         "slug": "components-alert",
         "headings": [
           {
@@ -88,8 +88,8 @@
         "route": "/docs/button",
         "id": "f287cf3b9733fc5567c4e9b701076dd1",
         "filepath": "components/Button.mdx",
-        "fullpath": "/Users/macmini/gatsby-starter-default/components/Button.mdx",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/components/Button.mdx",
+        "fullpath": "/Users/macmini/Tmd/Docs/components/Button.mdx",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/components/Button.mdx",
         "slug": "components-button",
         "headings": [
           {
@@ -128,8 +128,8 @@
         "menu": "Docs",
         "id": "73498ad0e1e62a714b08085d318f9de1",
         "filepath": "docs/index.mdx",
-        "fullpath": "/Users/macmini/gatsby-starter-default/docs/index.mdx",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/docs/index.mdx",
+        "fullpath": "/Users/macmini/Tmd/Docs/docs/index.mdx",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/docs/index.mdx",
         "slug": "docs-index",
         "headings": [
           {
@@ -155,8 +155,8 @@
         "menu": "Blog",
         "id": "3b9289da6496c599034f467991453e48",
         "filepath": "blog/hello-world/index.md",
-        "fullpath": "/Users/macmini/gatsby-starter-default/blog/hello-world/index.md",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/blog/hello-world/index.md",
+        "fullpath": "/Users/macmini/Tmd/Docs/blog/hello-world/index.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/blog/hello-world/index.md",
         "slug": "blog-hello-world-index",
         "headings": []
       }
@@ -172,8 +172,8 @@
         "menu": "Blog",
         "id": "ef840b5e96c796cc2a9241542a162341",
         "filepath": "blog/hi-folks/index.md",
-        "fullpath": "/Users/macmini/gatsby-starter-default/blog/hi-folks/index.md",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/blog/hi-folks/index.md",
+        "fullpath": "/Users/macmini/Tmd/Docs/blog/hi-folks/index.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/blog/hi-folks/index.md",
         "slug": "blog-hi-folks-index",
         "headings": [
           {
@@ -219,8 +219,8 @@
         "menu": "Blog",
         "id": "3b6c1a6f7bea1aeec5d48ab5c7d84efd",
         "filepath": "blog/my-second-post/index.md",
-        "fullpath": "/Users/macmini/gatsby-starter-default/blog/my-second-post/index.md",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/gatsby-starter-default/blog/my-second-post/index.md",
+        "fullpath": "/Users/macmini/Tmd/Docs/blog/my-second-post/index.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/blog/my-second-post/index.md",
         "slug": "blog-my-second-post-index",
         "headings": []
       }

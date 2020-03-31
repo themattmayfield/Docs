@@ -3,19 +3,19 @@
     "develop": {
       "plugins": [
         {
-          "name": "/Users/macmini/gatsby-starter-default/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "name": "/Users/macmini/Tmd/Docs/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "/Users/macmini/gatsby-starter-default"
+            "root": "/Users/macmini/Tmd/Docs"
           }
         }
       ],
       "presets": [
         {
-          "name": "/Users/macmini/gatsby-starter-default/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
+          "name": "/Users/macmini/Tmd/Docs/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -31,19 +31,19 @@
     "develop-html": {
       "plugins": [
         {
-          "name": "/Users/macmini/gatsby-starter-default/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "name": "/Users/macmini/Tmd/Docs/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "/Users/macmini/gatsby-starter-default"
+            "root": "/Users/macmini/Tmd/Docs"
           }
         }
       ],
       "presets": [
         {
-          "name": "/Users/macmini/gatsby-starter-default/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
+          "name": "/Users/macmini/Tmd/Docs/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -59,19 +59,19 @@
     "build-html": {
       "plugins": [
         {
-          "name": "/Users/macmini/gatsby-starter-default/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "name": "/Users/macmini/Tmd/Docs/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "/Users/macmini/gatsby-starter-default"
+            "root": "/Users/macmini/Tmd/Docs"
           }
         }
       ],
       "presets": [
         {
-          "name": "/Users/macmini/gatsby-starter-default/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
+          "name": "/Users/macmini/Tmd/Docs/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -87,19 +87,19 @@
     "build-javascript": {
       "plugins": [
         {
-          "name": "/Users/macmini/gatsby-starter-default/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
+          "name": "/Users/macmini/Tmd/Docs/node_modules/@babel/plugin-proposal-object-rest-spread/lib/index.js",
           "options": {}
         },
         {
           "name": "babel-plugin-export-metadata",
           "options": {
-            "root": "/Users/macmini/gatsby-starter-default"
+            "root": "/Users/macmini/Tmd/Docs"
           }
         }
       ],
       "presets": [
         {
-          "name": "/Users/macmini/gatsby-starter-default/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
+          "name": "/Users/macmini/Tmd/Docs/node_modules/@emotion/babel-preset-css-prop/dist/babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
