@@ -7,9 +7,9 @@
   Hey, I'm Matt Mayfield
 </h1>
 
-Hi, my name is Matt Mayfield. I am a software developer and a minimalist by choice.
+I am a software developer creating open source projects and writing about modern JavaScript, Node.js, and development.
 
-I design software that solves problems that the company I work for didn't know they had.
+I design software that solves problems that the company I work for didn't know they had, and writing documentation on it all.
 
 If you enjoy my content, support me buy fueling my coffee addiction!
 
