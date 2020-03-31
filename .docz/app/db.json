@@ -133,9 +133,9 @@
             "value": "Getting Started"
           },
           {
-            "slug": "hello-world",
+            "slug": "file-system",
             "depth": 2,
-            "value": "Hello world"
+            "value": "File System"
           }
         ]
       }
@@ -146,13 +146,13 @@
         "title": "Hello World",
         "date": "2015-05-01T22:12:03.284Z",
         "name": "Hello World",
-        "route": "/blog/helloworld",
-        "menu": "Blog",
         "id": "3b9289da6496c599034f467991453e48",
         "filepath": "blog/hello-world/index.md",
         "fullpath": "/Users/macmini/Tmd/Docs/blog/hello-world/index.md",
         "link": "https://github.com/MinimalDeveloper/Docs/edit/master/blog/hello-world/index.md",
         "slug": "blog-hello-world-index",
+        "route": "/blog-hello-world-index",
+        "menu": "",
         "headings": []
       }
     },
@@ -163,13 +163,13 @@
         "date": "2015-05-28T22:40:32.169Z",
         "description": "This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.",
         "name": "New Beginnings",
-        "route": "/blog/newbegginings",
-        "menu": "Blog",
         "id": "ef840b5e96c796cc2a9241542a162341",
         "filepath": "blog/hi-folks/index.md",
         "fullpath": "/Users/macmini/Tmd/Docs/blog/hi-folks/index.md",
         "link": "https://github.com/MinimalDeveloper/Docs/edit/master/blog/hi-folks/index.md",
         "slug": "blog-hi-folks-index",
+        "route": "/blog-hi-folks-index",
+        "menu": "",
         "headings": [
           {
             "slug": "on-deer-horse-aboard-tritely-yikes-and-much",
@@ -210,13 +210,13 @@
         "title": "My Second Post!",
         "date": "2015-05-06T23:46:37.121Z",
         "name": "My Second Post!",
-        "route": "/blog/secondpost",
-        "menu": "Blog",
         "id": "3b6c1a6f7bea1aeec5d48ab5c7d84efd",
         "filepath": "blog/my-second-post/index.md",
         "fullpath": "/Users/macmini/Tmd/Docs/blog/my-second-post/index.md",
         "link": "https://github.com/MinimalDeveloper/Docs/edit/master/blog/my-second-post/index.md",
         "slug": "blog-my-second-post-index",
+        "route": "/blog-my-second-post-index",
+        "menu": "",
         "headings": []
       }
     }
