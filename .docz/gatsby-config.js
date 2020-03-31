@@ -50,7 +50,7 @@ const config = {
         src: './',
         files: '**/*.{md,markdown,mdx}',
         public: '/public',
-        dest: '.docz/dist',
+        dest: 'public',
         d: '.docz/dist',
         editBranch: 'master',
         eb: 'master',
