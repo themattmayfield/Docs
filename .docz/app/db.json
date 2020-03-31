@@ -121,16 +121,16 @@
       }
     },
     {
-      "key": "docs/aws-ec2-node-red.mdx",
+      "key": "docs/awsnode.mdx",
       "value": {
         "name": "NodeJS + AWS",
-        "route": "/docs/aws-ec2-node-red",
+        "route": "/docs/aws-ec2-node-red/",
         "menu": "Docs",
-        "id": "ecb8a88317a0930989d9e68708e56e33",
-        "filepath": "docs/aws-ec2-node-red.mdx",
-        "fullpath": "/Users/macmini/Tmd/Docs/docs/aws-ec2-node-red.mdx",
-        "link": "https://github.com/MinimalDeveloper/Docs/edit/master/docs/aws-ec2-node-red.mdx",
-        "slug": "docs-aws-ec2-node-red",
+        "id": "e16f8918b3c10aaacdd1ecec6f78051b",
+        "filepath": "docs/awsnode.mdx",
+        "fullpath": "/Users/macmini/Tmd/Docs/docs/awsnode.mdx",
+        "link": "https://github.com/MinimalDeveloper/Docs/edit/master/docs/awsnode.mdx",
+        "slug": "docs-awsnode",
         "headings": [
           {
             "slug": "aws-ec2-nodejs-node-red",
@@ -296,59 +296,5 @@
       }
     }
   ],
-  "props": [
-    {
-      "key": "components/Alert.jsx",
-      "value": [
-        {
-          "description": "",
-          "displayName": "Alert",
-          "methods": [],
-          "actualName": "Alert",
-          "props": {
-            "kind": {
-              "type": {
-                "name": "enum",
-                "value": [
-                  {
-                    "value": "'info'",
-                    "computed": false
-                  },
-                  {
-                    "value": "'positive'",
-                    "computed": false
-                  },
-                  {
-                    "value": "'negative'",
-                    "computed": false
-                  },
-                  {
-                    "value": "'warning'",
-                    "computed": false
-                  }
-                ]
-              },
-              "required": false,
-              "description": "The kind prop is used to set the alert's background color",
-              "defaultValue": {
-                "value": "'info'",
-                "computed": false
-              }
-            }
-          }
-        }
-      ]
-    },
-    {
-      "key": "components/Contact.jsx",
-      "value": [
-        {
-          "description": "",
-          "displayName": "Contact",
-          "methods": [],
-          "actualName": "Contact"
-        }
-      ]
-    }
-  ]
+  "props": []
 }
