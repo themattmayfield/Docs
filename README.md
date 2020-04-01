@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Hey, I'm Matt Mayfield
+  Hey, I'm Matt Mayfield 👋🏿
 </h1>
 
 I am a software developer creating open source projects and writing about modern JavaScript, Node.js, and development.
