@@ -85,6 +85,8 @@ A quick look at the top-level files and directories.
     ├── package.json
     └── README.md
 
+Descriptions of the files as mentioned on GatsbyJS official site:
+
 1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
 2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
