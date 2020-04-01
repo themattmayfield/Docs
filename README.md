@@ -39,21 +39,31 @@ If you enjoy my content, support me buy fueling my coffee addiction!
 
     From [mdxjs official site](https://mdxjs.com/): MDX is an authorable format that lets you seamlessly write JSX in your Markdown documents. You can import components, such as interactive charts or alerts, and embed them within your content. This makes writing long-form content with components a blast 🚀.
 
+
+
 3.  **Open the source code and start editing!**
 
-    Click the edit this page on the top left corner to make changes as see fit through a pull request!
+    Click the edit page on the top right corner to make changes as see fit through a pull request on Github!
+
 
 
 4.  **Dark Mode.**
 
     Added a dark mode toggle because...dark mode.
 
-5. **Edit a page**
-    If you have a Github page and see a change you want to make to any page on this site, click the pencil in the top left corner and make a pull request!
 
-6. **Mobile First.**
 
-7. Simple
+5.  **Search**
+
+    Quickly find what you are looking for within the site with the search engine located in the side nav.
+
+
+
+6.  **Mobile First.**
+
+
+
+7.  **Simple.**
 
     Simple and elegant are two things that I wanted for this site. Not too many bells and whistles.
 
