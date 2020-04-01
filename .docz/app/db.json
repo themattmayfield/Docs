@@ -58,9 +58,9 @@
         "slug": "docs-awsnode",
         "headings": [
           {
-            "slug": "aws-ec2-nodejs-node-red",
+            "slug": "nodejs--aws--node-red",
             "depth": 1,
-            "value": "AWS-EC2-Node.js-Node-Red"
+            "value": "NodeJS + AWS + Node-red"
           },
           {
             "slug": "what-will-be-discussed-how-to",
@@ -116,6 +116,71 @@
       }
     },
     {
+      "key": "docs/filemakerwebdirectrecord.mdx",
+      "value": {
+        "name": "NodeJS + AWS",
+        "route": "/docs/filemaker-webdirect-record/",
+        "menu": "Docs",
+        "id": "4ce26fbc29d62a396ff30ec98581503a",
+        "filepath": "docs/filemakerwebdirectrecord.mdx",
+        "fullpath": "/Users/macmini/Tmd/Docs/docs/filemakerwebdirectrecord.mdx",
+        "link": "https://github.com/MinimalDeveloper/Docs/edit/master/docs/filemakerwebdirectrecord.mdx",
+        "slug": "docs-filemakerwebdirectrecord",
+        "headings": [
+          {
+            "slug": "access-record-through-filemaker-webdirect",
+            "depth": 1,
+            "value": "Access Record Through FileMaker WebDirect"
+          },
+          {
+            "slug": "table-of-contents",
+            "depth": 2,
+            "value": "Table of Contents"
+          },
+          {
+            "slug": "what-this-solves",
+            "depth": 3,
+            "value": "What this solves?"
+          },
+          {
+            "slug": "prerequisites",
+            "depth": 3,
+            "value": "Prerequisites"
+          },
+          {
+            "slug": "how-to-go-to-a-specific-record-in-filemaker-webdirect-from-an-html-page",
+            "depth": 2,
+            "value": "How to go to a specific record in Filemaker WebDirect from an HTML page"
+          },
+          {
+            "slug": "basic-steps",
+            "depth": 3,
+            "value": "Basic Steps"
+          },
+          {
+            "slug": "how-to-get-a-users-id-into-the-url-to-pass-to-filemaker",
+            "depth": 2,
+            "value": "How to get a users ID into the url to pass to filemaker."
+          },
+          {
+            "slug": "so-lets-do-that",
+            "depth": 6,
+            "value": "So Let's Do That."
+          },
+          {
+            "slug": "things-to-keep-in-mind-important",
+            "depth": 3,
+            "value": "Things to keep in mind IMPORTANT."
+          },
+          {
+            "slug": "steps-to-get-a-users-id-into-the-url-to-pass-to-filemaker",
+            "depth": 3,
+            "value": "Steps to get a users ID into the url to pass to filemaker."
+          }
+        ]
+      }
+    },
+    {
       "key": "docs/index.mdx",
       "value": {
         "name": "Getting Started",
@@ -128,9 +193,9 @@
         "slug": "docs-index",
         "headings": [
           {
-            "slug": "getting-started",
-            "depth": 1,
-            "value": "Getting Started"
+            "slug": "upcoming-docs",
+            "depth": 2,
+            "value": "Upcoming Docs"
           },
           {
             "slug": "file-system",

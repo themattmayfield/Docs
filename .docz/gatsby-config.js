@@ -59,7 +59,7 @@ const config = {
         title: 'Matt Mayfield',
         description: 'Documentation site for all projects',
         host: 'localhost',
-        port: 3001,
+        port: 3000,
         p: 3000,
         separator: '-',
         paths: {
