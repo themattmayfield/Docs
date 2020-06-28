@@ -118,7 +118,7 @@ Instagram: [@gainthetics](https://www.instagram.com/gainthetics/)
 
 LinkedIn: [/in/matthew-mayfield](https://www.linkedin.com/in/matthew-mayfield)
 
-Email: themindev@gmail.com
+Email: mattmayf411@gmail.com
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
