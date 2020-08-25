@@ -114,7 +114,7 @@ Descriptions of the files as mentioned on GatsbyJS official site:
 
 ## ✉️ Contact
 
-Instagram: [@gainthetics](https://www.instagram.com/gainthetics/)
+Instagram: [@themattmayfield](https://www.instagram.com/themattmayfield/)
 
 LinkedIn: [/in/theMattMayfield](https://www.linkedin.com/in/themattmayfield)
 
